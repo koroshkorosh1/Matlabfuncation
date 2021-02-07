@@ -104,7 +104,7 @@
 <tr align="center">
 <td align="center">1</td>
 <td align="center">اضافه کردن تابع</td>
-<td align="center">وارد گوگل شیدت مورد نظر شوید تابع رو وارد کنید .</a></td>
+<td align="center">وارد گوگل شیت مورد نظر شوید تابع رو وارد کنید .</a></td>
 </tr>
 
 <tr>
