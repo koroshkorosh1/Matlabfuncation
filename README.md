@@ -129,7 +129,7 @@
 <tr>
 <td align="center">5</td>
 <td align="center">تصحیح تابع</td>
-<td align="center">تابع و کد هایی که صحیح نباشند تایید نمیشوند </a></td>
+<td align="center">  تابع و کد هایی که صحیح نباشند تایید نمیشوند . </a></td>
 </tr>
 
 <tr>
